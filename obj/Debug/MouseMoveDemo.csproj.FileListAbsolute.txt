@@ -1,0 +1,6 @@
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\bin\Debug\MouseMoveDemo.exe.config
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\bin\Debug\MouseMoveDemo.exe
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\bin\Debug\MouseMoveDemo.pdb
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\obj\Debug\MouseMoveDemo.csproj.CoreCompileInputs.cache
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\obj\Debug\MouseMoveDemo.exe
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\obj\Debug\MouseMoveDemo.pdb

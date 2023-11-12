@@ -1,0 +1,8 @@
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\bin\Release\MouseMoveDemo.exe.config
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\bin\Release\MouseMoveDemo.exe
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\bin\Release\MouseMoveDemo.pdb
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\obj\Release\MouseMoveDemo.exe
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\obj\Release\MouseMoveDemo.pdb
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\obj\Release\MouseMoveDemo.Properties.Resources.resources
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\obj\Release\MouseMoveDemo.csproj.GenerateResource.Cache
+C:\Users\H0766962\Documents\Visual Studio 2015\Projects\MoshangTestCase\MouseMoveDemo\obj\Release\MouseMoveDemo.csprojResolveAssemblyReference.cache
